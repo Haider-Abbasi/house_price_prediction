@@ -19,7 +19,6 @@ To run this project, you need the following Python libraries:
 - matplotlib
 - seaborn
 
-You can install these libraries using pip:
-
+You can also install these libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
